@@ -1,4 +1,4 @@
-//Ler um número inteiro e imprimir na tela a sequência de 	números que vai do número 1 até o número lido.
+
 import java.util.Scanner;
 public class ExercicioFor_3 {
         public static void main(String[] args) {
